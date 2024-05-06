@@ -1,6 +1,4 @@
-# Distributed-Nosql-Store
 
-```markdown
 # Distributed NoSQL Triple Store Prototype
 
 This project focuses on the design and implementation of a distributed NoSQL triple store prototype utilizing state-based objects. The system employs multiple servers, each using distinct frameworks (PostgreSQL, MongoDB, and Neo4j) for data processing and storage, while ensuring effective communication and seamless translation of query languages.
@@ -51,4 +49,3 @@ Potential areas for future enhancement include:
 - Addressing log file durability concerns to ensure data integrity.
 - Incorporating more precise time-tracking mechanisms for improved data accuracy.
 
-```
