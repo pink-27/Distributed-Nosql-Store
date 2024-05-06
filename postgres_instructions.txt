@@ -1,0 +1,4 @@
+1. psql -h localhost -U postgres -p 5432 -d nosql_proj
+2. CREATE DATABASE "nosql_proj"
+3. CREATE USER shlok WITH PASSWORD 'shlok';
+

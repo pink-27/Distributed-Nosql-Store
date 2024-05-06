@@ -1,0 +1,4 @@
+1. nuke.sh deletes the log files.
+2. ./mongo_start.sh starts the mongo server.
+3. ./neo4j_start.sh starts the neo4j server.
+4. python3 src/initialize.py deletes the exisiting servers' data, and initializes the log tables.
